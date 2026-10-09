@@ -17,3 +17,7 @@ The player rolls two dice. If the total is 10 or more, a happy image is shown (Y
 ## How to run
 flutter pub get
 flutter run
+
+## Screenshot
+
+![App Screenshot](screenshots/app.png)
