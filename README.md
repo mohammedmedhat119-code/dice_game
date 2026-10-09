@@ -2,7 +2,7 @@
 
 Flutter app for the Mobile Development course.
 
-**Student:** اسمك
+**Student:** محمد مدحت محمد ابراهيم الشربيني
 **Task:** Dice Game App
 
 ## Description
@@ -17,7 +17,9 @@ The player rolls two dice. If the total is 10 or more, a happy image is shown (Y
 ## How to run
 flutter pub get
 flutter run
+<<<<<<< HEAD
 
 ## Screenshot
 
 ![App Screenshot](screenshots/app.png)
+7c13a63d1320ba17dfd9b138ef76acbe4a7aea1f
