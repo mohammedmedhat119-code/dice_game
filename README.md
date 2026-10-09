@@ -2,7 +2,7 @@
 
 Flutter app for the Mobile Development course.
 
-**Student:** اسمك
+**Student:** محمد مدحت محمد ابراهيم الشربيني
 **Task:** Dice Game App
 
 ## Description
